@@ -14,6 +14,7 @@ gem 'pg'
 gem 'pry-rails'
 gem 'puma'
 gem 'rails', '~> 7.0.3'
+gem "react_on_rails"
 gem 'rspec-rails'
 gem 'rubocop'
 gem 'sass-rails'
